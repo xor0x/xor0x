@@ -23,9 +23,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<br>
+<br><br>
 **Stats**
-
+<br>
 ![Xor0x GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0x&show_icons=true&theme=radical)
 ![Xor0x Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0x&layout=compact&count_private=true&theme=gruvbox)]
 
