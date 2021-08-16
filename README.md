@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/xor0x/xor0x/blob/main/programmer-source-code.jpg?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/xor0x/xor0x/blob/main/benefits-of-computer-programming.jpg?raw=true" width="500" height="320" />
 
 **Back-end**
 
