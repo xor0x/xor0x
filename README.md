@@ -9,7 +9,7 @@
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
+![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=MySql)
 
 **Tools**
 
