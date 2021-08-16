@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Xor0x GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0x&show_icons=true&theme=radical)
+
+
 <!--
 **xor0x/xor0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
