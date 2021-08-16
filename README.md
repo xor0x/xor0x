@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" alt="GIF" src="https://github.com/xor0x/xor0x/blob/main/programmer-source-code.jpg?raw=true" width="500" height="320" />
+
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -23,7 +25,7 @@
 **Stats**
 
 ![Xor0x GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0x&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Xor0x Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0x&layout=compact&count_private=true&theme=gruvbox)]
 
 
 
