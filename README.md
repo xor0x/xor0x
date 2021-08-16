@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-![Xor0x GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0x&show_icons=true&theme=radical)
+**Back-end**
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
+
+![Xor0x GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0x&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
