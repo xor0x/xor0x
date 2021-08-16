@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Java](https://img.shields.io/badge/-Java-0aad48?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
 
 **Databases**
 
