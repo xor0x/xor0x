@@ -11,6 +11,17 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
 
+**Tools**
+
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+**Stats**
+
 ![Xor0x GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0x&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
