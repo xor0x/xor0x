@@ -25,10 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-**Learning**
-
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-
 
 <br><br>
 **Stats**
