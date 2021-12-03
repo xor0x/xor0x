@@ -6,12 +6,13 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=MySql)
+![MySql](https://img.shields.io/badge/-MySql-D1CDCB?style=flat-square&logo=MySql)
 
 **Tools**
 
