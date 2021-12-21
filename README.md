@@ -24,6 +24,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+**Learning**
+
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-grey?style=flat-square&logo=hibernate)
+
 
 
 <br><br>
