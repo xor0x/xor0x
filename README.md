@@ -4,10 +4,13 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
+
+**Frameworks**
+
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
 
 **Databases**
 
