@@ -21,7 +21,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![WSL2](https://img.shields.io/badge/WSL2-blue?style=flat-square&logo=wsl2)
+![Linux](https://img.shields.io/badge/Linux-red?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
