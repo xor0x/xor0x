@@ -33,6 +33,7 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-grey?style=flat-square&logo=hibernate)
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 
 
 
