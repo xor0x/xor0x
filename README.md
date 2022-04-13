@@ -6,6 +6,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 
 **Frameworks**
 
@@ -33,7 +34,7 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-grey?style=flat-square&logo=hibernate)
-![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+
 
 
 
