@@ -18,7 +18,7 @@
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-blue?style=flat-square&logo=OpenCV)
 ![Pillow](https://img.shields.io/badge/-Pillow-D1CDCB?style=flat-square&logo=Pillow)
-![NumPy](https://img.shields.io/badge/-NumPy-9cf?style=flat-square&logo=NumPy)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
 
 **Databases**
 
