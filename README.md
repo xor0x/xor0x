@@ -10,8 +10,15 @@
 
 **Frameworks**
 
+![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=PyTorch)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+
+**Image-Processing Python Libraries**
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-blue?style=flat-square&logo=OpenCV)
+![Pillow](https://img.shields.io/badge/-Pillow-D1CDCB?style=flat-square&logo=Pillow)
+![NumPy](https://img.shields.io/badge/-NumPy-9cf?style=flat-square&logo=NumPy)
 
 **Databases**
 
