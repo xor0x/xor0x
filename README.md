@@ -32,6 +32,7 @@
 ![GoLand](https://img.shields.io/badge/-GOLand-green?style=flat-square&logo=GOLand)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-668266?style=flat-square&logo=HeidiSQL)
 
 ![WSL2](https://img.shields.io/badge/WSL2-blue?style=flat-square&logo=wsl2)
 ![Linux](https://img.shields.io/badge/Linux-red?style=flat-square&logo=linux)
