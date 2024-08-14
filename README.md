@@ -13,6 +13,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=PyTorch)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![FastApi](https://img.shields.io/badge/-FastApi-%232c3e50?style=flat-square&logo=FastApi)
 
 **Image-Processing Python Libraries**
 
@@ -38,11 +39,6 @@
 ![Linux](https://img.shields.io/badge/Linux-red?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-**Learning**
-
-![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-grey?style=flat-square&logo=hibernate)
 
 
 
